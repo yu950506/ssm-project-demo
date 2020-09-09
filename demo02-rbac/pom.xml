@@ -45,7 +45,7 @@
         <!--log4j版本-->
         <log4j.version>1.2.17</log4j.version>
         <!--JSR303版本-->
-        <hibernate.validator.version>5.4.1.Final</hibernate.validator.version>
+        <hibernate.validator.version>5.4.2.Final</hibernate.validator.version>
     </properties>
     <!--============================== 依赖控制 ==============================-->
     <dependencies>
