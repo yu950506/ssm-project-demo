@@ -19,7 +19,7 @@
         <!--spring版本-->
         <spring.version>5.0.4.RELEASE</spring.version>
         <!--spring-shiro整合的版本-->
-        <spring.shiro.version>1.4.0</spring.shiro.version>
+        <spring.shiro.version>1.7.0</spring.shiro.version>
         <!--spring-redis整合的版本-->
         <spring.redis.version>1.7.5.RELEASE</spring.redis.version>
         <!--druid版本-->
