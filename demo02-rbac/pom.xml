@@ -17,7 +17,7 @@
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
         <!--spring版本-->
-        <spring.version>5.0.4.RELEASE</spring.version>
+        <spring.version>5.2.20.RELEASE</spring.version>
         <!--spring-shiro整合的版本-->
         <spring.shiro.version>1.4.0</spring.shiro.version>
         <!--spring-redis整合的版本-->
